@@ -1,5 +1,11 @@
-ul {
-    list-style-type: none;
-    margin: 50%;
-    padding: 5px;
+a:hover {
+    color: red;
+}
+
+/* selected link */
+li a:active {
+	padding: 5px;
+
+
+
 }
